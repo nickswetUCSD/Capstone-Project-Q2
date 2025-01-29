@@ -1,3 +1,4 @@
+### Our code is based on COTTA, therefore a copy of COTTA's license is included here.
 MIT License
 
 Copyright (c) 2021 Qin Wang
@@ -22,7 +23,7 @@ SOFTWARE.
 
 
 
-### Our code is based on TENT, therefore a copy of TENT's license is included here
+### COTTA's code is based on TENT, therefore a copy of TENT's license is included here
 MIT License
 
 Copyright (c) 2021 Dequan Wang and Evan Shelhamer
