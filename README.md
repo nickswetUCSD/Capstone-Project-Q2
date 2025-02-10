@@ -3,7 +3,7 @@ Testing variations of COTTA for improved efficiency.
 
 ## Prerequisites
 
-Please create and activate the following conda envrionment to recreate our experiment. Note that a Linux distribution is necessary to install the required anaconda packages. Note that an NVIDIA GPU with CUDA capabilities is necessary. 
+Please create and activate the following conda environment to recreate our experiment. Note that a Linux distribution is necessary to install the required Anaconda packages. Note that an NVIDIA GPU with CUDA capabilities is necessary. 
 ```bash
 # It may take several minutes for conda to solve the environment
 conda update conda
